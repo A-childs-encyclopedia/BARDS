@@ -1,2 +1,2 @@
-# BARDS.rb
-Beyond All Reason Development Environment Setup tool for windows
+# BARDS.cr
+Beyond All Reason Development environment Setup tool for windows
