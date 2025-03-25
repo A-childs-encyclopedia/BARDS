@@ -3,8 +3,8 @@ Beyond All Reason Development environment Setup tool for windows
 
 # Prerequisites 
 
-• git \n
-• BAR (obviously)
+• git\
+• BAR (_obviously_)
 
 # How to use
 
