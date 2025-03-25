@@ -17,8 +17,6 @@ def find_and_change_dir(target_name, root_path = "C:/")
       puts "Dev environment fully setup :)"
       return
     end
-  rescue => e
-    puts "Error accessing #{path}: #{e}"
   end
   puts "#{target_name} not found under #{root_path}"
 end
