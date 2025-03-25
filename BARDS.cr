@@ -19,5 +19,4 @@ def find_and_change_dir(target_name, root_path = "C:/")
   puts "#{target_name} not found under #{root_path}"
 end
 
-# Example usage
 find_and_change_dir("Beyond-All-Reason", "C:/")
